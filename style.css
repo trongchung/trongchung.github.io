@@ -1,0 +1,25 @@
+.noidung{
+    display: flex;
+}
+.noidung .skill{
+    background-color: white;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+}
+.noidung .info{
+    background-color: #efefef;
+    padding-right: 0;
+
+}
+.noidung .icon{
+    color: #3498DC;
+    font-size: 30px;
+}
+body{
+    background-color: #D8D8D8;
+}
+.noidung .skill .cv{
+    color: #28B667;
+}
